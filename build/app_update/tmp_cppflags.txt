@@ -1,0 +1,1 @@
+d284912-dirty esp-xiaomi-thermometer-fw v4.3.1-480-g233dc30fb1
