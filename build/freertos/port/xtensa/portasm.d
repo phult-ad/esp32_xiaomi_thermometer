@@ -1,63 +1,69 @@
 port/xtensa/portasm.o: \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/freertos/port/xtensa/portasm.S \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/freertos/port/xtensa/include/freertos/xtensa_rtos.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/coreasm.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/core.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/hal.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/xtensa-versions.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/core-isa.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/core-matmap.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/tie.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/tie-asm.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/specreg.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/corebits.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/system.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/freertos/port/xtensa/include/freertos/FreeRTOSConfig.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/build/include/sdkconfig.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/freertos/port/xtensa/include/freertos/xtensa_config.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/freertos/port/xtensa/include/freertos/xtensa_context.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/xtensa_context.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/xtruntime-frames.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/freertos/port/xtensa/include/freertos/xtensa_timer.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/freertos/port/xtensa/include/freertos/xtensa_rtos.h
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/freertos/port/xtensa/portasm.S \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/freertos/port/xtensa/include/freertos/xtensa_rtos.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/coreasm.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/core.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/hal.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/xtensa-versions.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/core-isa.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/core-matmap.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/tie.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/tie-asm.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/specreg.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/corebits.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/system.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/build/include/sdkconfig.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/freertos/include/esp_additions/freertos/FreeRTOSConfig.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/esp_common/include/esp_compiler.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/freertos/port/xtensa/include/freertos/FreeRTOSConfig_arch.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/freertos/port/xtensa/include/freertos/xtensa_config.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/freertos/port/xtensa/include/freertos/xtensa_context.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/xtensa_context.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/xtruntime-frames.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/freertos/port/xtensa/include/freertos/xtensa_timer.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/freertos/port/xtensa/include/freertos/xtensa_rtos.h
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/freertos/port/xtensa/include/freertos/xtensa_rtos.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/freertos/port/xtensa/include/freertos/xtensa_rtos.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/coreasm.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/coreasm.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/core.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/core.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/hal.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/hal.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/xtensa-versions.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/xtensa-versions.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/core-isa.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/core-isa.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/core-matmap.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/core-matmap.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/tie.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/tie.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/tie-asm.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/tie-asm.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/specreg.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/specreg.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/corebits.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/corebits.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/system.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/system.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/freertos/port/xtensa/include/freertos/FreeRTOSConfig.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/build/include/sdkconfig.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/build/include/sdkconfig.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/freertos/include/esp_additions/freertos/FreeRTOSConfig.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/freertos/port/xtensa/include/freertos/xtensa_config.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/esp_common/include/esp_compiler.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/freertos/port/xtensa/include/freertos/xtensa_context.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/freertos/port/xtensa/include/freertos/FreeRTOSConfig_arch.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/xtensa_context.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/freertos/port/xtensa/include/freertos/xtensa_config.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/xtruntime-frames.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/freertos/port/xtensa/include/freertos/xtensa_context.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/freertos/port/xtensa/include/freertos/xtensa_timer.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/xtensa_context.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/freertos/port/xtensa/include/freertos/xtensa_rtos.h:
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/freertos/port/xtensa/portasm.S:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/xtruntime-frames.h:
+
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/freertos/port/xtensa/include/freertos/xtensa_timer.h:
+
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/freertos/port/xtensa/include/freertos/xtensa_rtos.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/freertos/port/xtensa/portasm.S:

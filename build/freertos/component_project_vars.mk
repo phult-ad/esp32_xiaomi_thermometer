@@ -1,5 +1,5 @@
 # Automatically generated build file. Do not edit.
-COMPONENT_INCLUDES += $(PROJECT_PATH)/esp-idf/components/freertos/include $(PROJECT_PATH)/esp-idf/components/freertos/port/xtensa/include
+COMPONENT_INCLUDES += $(PROJECT_PATH)/esp-idf/components/freertos/include $(PROJECT_PATH)/esp-idf/components/freertos/include/esp_additions $(PROJECT_PATH)/esp-idf/components/freertos/include/esp_additions/freertos $(PROJECT_PATH)/esp-idf/components/freertos/port/xtensa/include
 COMPONENT_LDFLAGS += -L$(BUILD_DIR_BASE)/freertos -lfreertos -Wl,--undefined=uxTopUsedPriority
 COMPONENT_LINKER_DEPS += 
 COMPONENT_SUBMODULES += 

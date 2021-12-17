@@ -14,7 +14,7 @@
 #include "esp_timer.h"
 #include "esp_sleep.h"
 #include "ssd1306.h"
-#include "ble.h"
+#include "mithermometer.h"
 #include "sdkconfig.h"
 
 static const char *TAG = "main";
@@ -22,7 +22,7 @@ static const char *TAG = "main";
 void app_main(void) {
     esp_log_level_set("*", ESP_LOG_ERROR);
     esp_log_level_set("main", ESP_LOG_INFO);
-    esp_log_level_set("ble", ESP_LOG_INFO);
+    esp_log_level_set("MI THERMOMETER", ESP_LOG_INFO);
 
     esp_err_t ret = nvs_flash_init();
     if ((ret == ESP_ERR_NVS_NO_FREE_PAGES) || (ret == ESP_ERR_NVS_NEW_VERSION_FOUND)) {
@@ -35,7 +35,7 @@ void app_main(void) {
     oled_ssd1306_init();
     oled_ssd1306_clear_all();
     oled_ssd1306_print(0, "Hello");
-    ble_init();
+    mi_init();
 
     while (1) {
         //ESP_LOGI(TAG, "Run....");

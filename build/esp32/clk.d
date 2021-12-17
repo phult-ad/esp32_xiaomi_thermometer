@@ -1,54 +1,54 @@
 clk.o: \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/esp32/clk.c \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/esp_attr.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/build/include/sdkconfig.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/rtc.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/soc.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/esp_common/include/esp_assert.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/newlib/platform_include/assert.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/esp_common/include/esp_bit_defs.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/soc/include/soc/rtc_periph.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/soc/include/soc/rtc_io_periph.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/soc_caps.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/rtc_io_channel.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/rtc_io_reg.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/rtc_io_struct.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/rtc_cntl_reg.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/rtc_cntl_struct.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/sens_struct.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/esp32/include/esp32/clk.h
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/esp32/clk.c \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/esp_attr.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/build/include/sdkconfig.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/rtc.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/soc.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/esp_common/include/esp_assert.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/newlib/platform_include/assert.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/esp_common/include/esp_bit_defs.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/soc/include/soc/rtc_periph.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/soc/include/soc/rtc_io_periph.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/soc_caps.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/rtc_io_channel.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/rtc_io_reg.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/rtc_io_struct.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/rtc_cntl_reg.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/rtc_cntl_struct.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/sens_struct.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/esp32/include/esp32/clk.h
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/esp_attr.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/esp_attr.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/build/include/sdkconfig.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/build/include/sdkconfig.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/rtc.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/rtc.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/soc.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/soc.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/esp_common/include/esp_assert.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/esp_common/include/esp_assert.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/newlib/platform_include/assert.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/newlib/platform_include/assert.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/esp_common/include/esp_bit_defs.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/esp_common/include/esp_bit_defs.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/soc/include/soc/rtc_periph.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/soc/include/soc/rtc_periph.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/soc/include/soc/rtc_io_periph.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/soc/include/soc/rtc_io_periph.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/soc_caps.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/soc_caps.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/rtc_io_channel.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/rtc_io_channel.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/rtc_io_reg.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/rtc_io_reg.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/rtc_io_struct.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/rtc_io_struct.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/rtc_cntl_reg.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/rtc_cntl_reg.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/rtc_cntl_struct.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/rtc_cntl_struct.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/sens_struct.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/sens_struct.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/esp32/include/esp32/clk.h:
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/esp32/./clk.c:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/esp32/include/esp32/clk.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/esp32/./clk.c:

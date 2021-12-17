@@ -1,72 +1,81 @@
 unity_port_esp32.o: \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/unity/unity_port_esp32.c \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/unity/unity/src/unity.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/unity/unity/src/unity_internals.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/unity/include/unity_config.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/esp_common/include/esp_err.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/unity/include/unity_test_runner.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/esp_hw_support/include/soc/cpu.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xt_instr_macros.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/corebits.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/core.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/hal.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/xtensa-versions.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/core-matmap.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/tie.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/specreg.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/hal/include/hal/cpu_hal.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/soc_caps.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/hal/include/hal/cpu_types.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/hal/esp32/include/hal/cpu_ll.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/esp_attr.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/extreg.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/esp_common/include/esp_bit_defs.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/esp_rom/include/esp_rom_uart.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/esp32/include/esp32/clk.h
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/unity/unity_port_esp32.c \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/unity/unity/src/unity.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/unity/unity/src/unity_internals.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/unity/include/unity_config.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/esp_common/include/esp_err.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/esp_common/include/esp_compiler.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/unity/include/unity_test_runner.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/esp_hw_support/include/soc/cpu.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/esp_hw_support/include/esp_cpu.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/hal/include/hal/cpu_hal.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/soc_caps.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/hal/include/hal/cpu_types.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/hal/esp32/include/hal/cpu_ll.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/esp_common/include/esp_attr.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xt_instr_macros.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/specreg.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/corebits.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/extreg.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/esp_common/include/esp_bit_defs.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/core.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/hal.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/xtensa-versions.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/core-matmap.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/tie.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/esp_rom/include/esp_rom_uart.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/esp_hw_support/include/soc/esp32/clk.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/esp_hw_support/include/esp_private/esp_clk.h
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/unity/unity/src/unity.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/unity/unity/src/unity.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/unity/unity/src/unity_internals.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/unity/unity/src/unity_internals.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/unity/include/unity_config.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/unity/include/unity_config.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/esp_common/include/esp_err.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/esp_common/include/esp_err.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/unity/include/unity_test_runner.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/esp_common/include/esp_compiler.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/esp_hw_support/include/soc/cpu.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/unity/include/unity_test_runner.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xt_instr_macros.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/esp_hw_support/include/soc/cpu.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/corebits.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/esp_hw_support/include/esp_cpu.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/core.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/hal/include/hal/cpu_hal.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/hal.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/soc_caps.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/xtensa-versions.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/hal/include/hal/cpu_types.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/core-matmap.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/hal/esp32/include/hal/cpu_ll.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/tie.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/esp_common/include/esp_attr.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/specreg.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xt_instr_macros.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/hal/include/hal/cpu_hal.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/specreg.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/soc_caps.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/corebits.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/hal/include/hal/cpu_types.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/extreg.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/hal/esp32/include/hal/cpu_ll.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/esp_common/include/esp_bit_defs.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/esp_attr.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/core.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/extreg.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/hal.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/esp_common/include/esp_bit_defs.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/include/xtensa/xtensa-versions.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/esp_rom/include/esp_rom_uart.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/core-matmap.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/esp32/include/esp32/clk.h:
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/unity/./unity_port_esp32.c:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/xtensa/esp32/include/xtensa/config/tie.h:
+
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/esp_rom/include/esp_rom_uart.h:
+
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/esp_hw_support/include/soc/esp32/clk.h:
+
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/esp_hw_support/include/esp_private/esp_clk.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/unity/./unity_port_esp32.c:

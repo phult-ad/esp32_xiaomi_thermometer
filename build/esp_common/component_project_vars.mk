@@ -4,5 +4,5 @@ COMPONENT_LDFLAGS += -L$(BUILD_DIR_BASE)/esp_common -lesp_common
 COMPONENT_LINKER_DEPS += 
 COMPONENT_SUBMODULES += 
 COMPONENT_LIBRARIES += esp_common
-COMPONENT_LDFRAGMENTS += 
+COMPONENT_LDFRAGMENTS += $(PROJECT_PATH)/esp-idf/components/esp_common/common.lf $(PROJECT_PATH)/esp-idf/components/esp_common/soc.lf
 component-esp_common-build: 

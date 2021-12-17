@@ -4,5 +4,5 @@ COMPONENT_LDFLAGS += -L$(BUILD_DIR_BASE)/newlib -lnewlib -lc -lm -u newlib_inclu
 COMPONENT_LINKER_DEPS += 
 COMPONENT_SUBMODULES += 
 COMPONENT_LIBRARIES += newlib
-COMPONENT_LDFRAGMENTS += $(PROJECT_PATH)/esp-idf/components/newlib/newlib.lf
+COMPONENT_LDFRAGMENTS += $(PROJECT_PATH)/esp-idf/components/newlib/newlib.lf $(PROJECT_PATH)/esp-idf/components/newlib/system_libs.lf
 component-newlib-build: 

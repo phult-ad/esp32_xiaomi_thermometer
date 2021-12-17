@@ -1,11 +1,14 @@
 {
     "files.associations": {
+        "*.adoc": "c",
         "ios": "c",
         "array": "c",
         "string": "c",
         "string_view": "c",
         "vector": "c",
         "filesystem": "c",
-        "*.ipp": "c"
+        "*.ipp": "c",
+        "random": "c",
+        "mithermometer.h": "c"
     }
 }

@@ -1,60 +1,60 @@
 nghttp2/lib/nghttp2_submit.o: \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_submit.c \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_submit.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/private_include/config.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/includes/nghttp2/nghttp2.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/port/include/nghttp2/nghttp2ver.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_session.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_map.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_int.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_mem.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_frame.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_hd.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_hd_huffman.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_buf.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_rcbuf.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_stream.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_outbound_item.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_pq.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_callbacks.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_helper.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_priority_spec.h
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_submit.c \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_submit.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/private_include/config.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/includes/nghttp2/nghttp2.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/port/include/nghttp2/nghttp2ver.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_session.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_map.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_int.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_mem.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_frame.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_hd.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_hd_huffman.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_buf.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_rcbuf.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_stream.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_outbound_item.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_pq.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_callbacks.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_helper.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_priority_spec.h
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_submit.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_submit.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/private_include/config.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/private_include/config.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/includes/nghttp2/nghttp2.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/includes/nghttp2/nghttp2.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/port/include/nghttp2/nghttp2ver.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/port/include/nghttp2/nghttp2ver.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_session.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_session.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_map.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_map.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_int.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_int.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_mem.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_mem.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_frame.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_frame.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_hd.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_hd.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_hd_huffman.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_hd_huffman.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_buf.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_buf.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_rcbuf.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_rcbuf.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_stream.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_stream.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_outbound_item.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_outbound_item.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_pq.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_pq.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_callbacks.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_callbacks.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_helper.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_helper.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_priority_spec.h:
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_submit.c:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_priority_spec.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/nghttp/nghttp2/lib/nghttp2_submit.c:

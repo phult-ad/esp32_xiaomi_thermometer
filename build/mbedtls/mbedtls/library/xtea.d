@@ -1,24 +1,24 @@
 mbedtls/library/xtea.o: \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/mbedtls/mbedtls/library/xtea.c \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/build/include/sdkconfig.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/mbedtls/mbedtls/include/mbedtls/config.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/soc_caps.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/mbedtls/port/include/esp_mem.h \
- /Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/mbedtls/mbedtls/library/xtea.c \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/build/include/sdkconfig.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/mbedtls/mbedtls/include/mbedtls/config.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/soc_caps.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/mbedtls/port/include/esp_mem.h \
+ /home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/mbedtls/port/include/mbedtls/esp_config.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/build/include/sdkconfig.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/build/include/sdkconfig.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/mbedtls/mbedtls/include/mbedtls/config.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/mbedtls/mbedtls/include/mbedtls/config.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/soc_caps.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/soc/esp32/include/soc/soc_caps.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/mbedtls/port/include/esp_mem.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/mbedtls/port/include/esp_mem.h:
 
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h:
-/Users/phult/Projects/sunshine/esp32_xiaomi_thermometer/esp-idf/components/mbedtls/mbedtls/library/xtea.c:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/mbedtls/mbedtls/include/mbedtls/check_config.h:
+/home/phult/Projects/esp-test-fw/esp32_xiaomi_thermometer/esp-idf/components/mbedtls/mbedtls/library/xtea.c:
