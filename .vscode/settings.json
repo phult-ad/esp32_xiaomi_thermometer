@@ -10,5 +10,6 @@
         "*.ipp": "c",
         "random": "c",
         "mithermometer.h": "c"
-    }
+    },
+    "git.ignoreLimitWarning": true
 }

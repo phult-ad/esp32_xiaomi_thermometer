@@ -5,13 +5,16 @@
 - Kit ESP32
 - Cảm biến nhiệt LYWSD03MMC
 
-image::./images/template.png[width = 400, role="center", align="center"]
+image::./images/device.jpg[]
 
 - Điện thoại cài app BLE Scanner 
 
 === Tìm kiếm Characteristic đọc nhiệt độ và độ 
 
 - Mở app BLE Scanner kết nối vào cảm biến LYWSD03MMC tìm kiếm Service có Characteristic mang tên (TEMPERATURE AND HUMIDITY)
+
+image::./images/app.png[]
+
 - Copy dòng mã hex của Characteristic
 
 .Khai báo MI_DATA_CHAR_UUID
@@ -259,7 +262,7 @@ Source code https://github.com/phult-ad/esp32_xiaomi_thermometer[Link]
 
 === Kết quả 
 
-
+image::./images/ketqua.png[]
 
 === Tham khảo
 
